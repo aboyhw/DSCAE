@@ -64,7 +64,7 @@ class Timer(object):
 
 
 print('\nloading MNIST')
-mnist = input_data.read_data_sets("../MNIST_data/")
+mnist = input_data.read_data_sets("./MNIST_data/")
 
 # mnist = tf.keras.datasets.mnist
 # (X_train, y_train), (X_test, y_test) = mnist.load_data()
