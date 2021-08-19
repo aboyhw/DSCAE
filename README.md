@@ -8,6 +8,7 @@ Deep neural networks are a state-of-the-art method used to computer vision. Impe
 The adversarial examples are built on Craft Image Adversarial Samples(https://github.com/gongzhitaao/tensorflow-adversarial/tree/v0.2.0) with TensorFlow. 
 
 # citation
+Please, cite this paper if you use the code in this repository as part of a published research project:
 @article{article,  
 author = {Ye, Hongwei and Liu, Xiaozhang and Li, Chunlai},  
 year = {2020},  
